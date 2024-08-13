@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <title>Self introduction</title>
+    </head>
+    <body>
+        <center>
+            <h1>M BALASUBRAMANIAM</h1>
+            <p>Myself Balasubramaniam i am from Vadapalani .I did my Bachelors degree in Ramco Institute of Technology in the field of Electrical and Electronics Engineering at Rajapalayam.In my own interests i learned some Soft skills like HTML,CSS,JAVA,PYTHON and SQL.My Area of Interests is Java full stack developement.My Hobbies are Listenning Musics and and taking Some pictures.My Strength is Collabrative and Passionate and My weakness is Overthinking.Thats all about me.Thank you!</p>
+        </center>
+    </body>
+</html>
